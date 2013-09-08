@@ -1,4 +1,4 @@
-Textual-Solarized is a Textual IRC style for OSX. You can find Textual at http://www.codeux.com/textual/ or on the App Store.
+Textual-Monokai is a Textual IRC style for OSX. You can find Textual at http://www.codeux.com/textual/ or on the App Store.
 
 It was a mix of Simplified Dark theme bundled with Textual and the Solarized color scheme and then added Sublime Text 2's Monokai theme to it.
 
